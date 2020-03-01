@@ -2,4 +2,4 @@
 - Homepage -> https://eric-lightning.info
 
 # コンテンツ
-- [Javaスコーラ](Java-Scola)
+- [Javaスコーラ](java-scola)
