@@ -1,16 +1,5 @@
----
-Title: Javaスコーラ
-Description: 東京情報大学 2020年度 Javaスコーラ用ページ
-Author: Eric-Lightning
-Date: 2020-03-01
-Robots: noindex,nofollow
-Template: index
----
-# Javaスコーラ
+- Eric-lightningのGithubPages.
+- Homepage -> https://eric-lightning.info
 
-- このサイトは東京情報大学Javaスコーラのサポートページです。
-- Javaスコーラの資料をおいていきます。
-- 説明用のスライドはSlideShareに上げる予定。
-
-## スコーラ資料
-- [第1回 プログラミング言語と環境](01.md)
+# コンテンツ
+- [Javaスコーラ](Java-Scola)
