@@ -1,11 +1,3 @@
----
-Title: Javaスコーラ
-Description: 東京情報大学 2020年度 Javaスコーラ用ページ
-Author: Eric-Lightning
-Date: 2020-03-01
-Robots: noindex,nofollow
-Template: index
----
 # Javaスコーラ
 
 - このサイトは東京情報大学Javaスコーラのサポートページです。
@@ -13,4 +5,10 @@ Template: index
 - 説明用のスライドはSlideShareに上げる予定。
 
 ## スコーラ資料
-- [第1回 プログラミング言語と環境](01.md)
+- [第1回 プログラミング言語と環境構築](01.md)
+- [第2回 データ型 - char int double](02.md)
+- [第3回 演算子と式・条件分岐](03.md)
+- [第4回 ループ文 - for do-while break continue](04.md)
+- [第5回 関数プログラミングとJavaにおけるクラスとメソッド](05.md)
+- [第6回 参照型：文字列](06.md)
+- [第7回 参照型：配列（一次元配列・二次元配列）](07.md)
