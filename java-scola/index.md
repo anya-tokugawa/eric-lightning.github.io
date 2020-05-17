@@ -11,7 +11,9 @@ Javaスコーラでは，プログラミング言語のJavaをプログラミン
 2. Javaで学ぶプログラミングの基礎技術（関数型（メソッド）プログラミング）
 3. Javaで学ぶプログラミングの基礎技術（オブジェクト指向型（クラス）プログラミング）
 
-スコーラ資料: https://md.eric-lightning.info/viewer.php?file=TUIS/Scola/Java/
+### 資料
+
+(スコーラ資料](https://md.eric-lightning.info/viewer.php?file=TUIS/Scola/Java/)
 
 ### ガイダンス
 
