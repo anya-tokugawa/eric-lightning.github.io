@@ -13,7 +13,7 @@ Javaスコーラでは，プログラミング言語のJavaをプログラミン
 
 ### 資料
 
-(スコーラ資料](https://md.eric-lightning.info/viewer.php?file=TUIS/Scola/Java/)
+[スコーラ資料](https://md.eric-lightning.info/viewer.php?file=TUIS/Scola/Java/)
 
 ### ガイダンス
 
