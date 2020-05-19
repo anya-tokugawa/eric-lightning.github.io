@@ -1,5 +1,12 @@
 # コンピュータ・スコーラ（Java)
 
+## ガイダンスについて
+
+Microsoft Teams上で実施します．
+受講生は下記チームに参加してください．
+[チームに参加する](https://teams.microsoft.com/l/team/19%3af6aeec29645e4432a8fd3158abbce6f9%40thread.tacv2/conversations?groupId=57ede0ad-e28e-4b0a-84d4-5e7029fd2835&tenantId=19bc9707-4145-498d-b58d-1581ffde2659)
+
+
 ## 概要
 
 Javaスコーラでは，プログラミング言語のJavaをプログラミング入門者・プログラミング初心者向けを学んでいきます．
