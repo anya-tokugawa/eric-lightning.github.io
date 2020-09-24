@@ -2,7 +2,7 @@
 
 ## ガイダンスについて
 
-ガイダンスは終了しました．
+後期ガイダンスは、9/25(金）・10/2（金）3,4コマ目です！
 参加希望の方はMicrosoft Teamsかメールで`J17273YN`宛に連絡してください！
 
 ## 概要
@@ -18,7 +18,7 @@ Javaスコーラでは，プログラミング言語のJavaをプログラミン
 
 ### 資料
 
-[スコーラ資料](https://md.eric-lightning.info/viewer.php?file=TUIS/Scola/Java/)
+[スコーラ資料](https://eric-lightning.github.io/javaScola/)
 
 ### ガイダンス
 
