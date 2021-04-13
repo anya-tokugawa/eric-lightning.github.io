@@ -1,4 +1,3 @@
-# Eric-Lightning
 
 - [私について](https://github.com/Eric-lightning)
 
