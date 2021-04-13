@@ -2,8 +2,7 @@
 
 - [私について](https://github.com/Eric-lightning)
 
-## スコーラについて
+## スコーラについて - [repo](https://github.com/Eric-lightning/basis-learning)
 
-- https://eric-lightning.github.io/basis-learning/
-- https://eric-lightning.github.io/basis-learning/Java (Java)
-- https://eric-lightning.github.io/basis-learning/Linux (Linux)
+- [Javaの資料](https://eric-lightning.github.io/basis-learning/Java)
+- [Linuxの資料](https://eric-lightning.github.io/basis-learning/Linux)
